@@ -1,0 +1,4 @@
+cd /d <PATH TO THE CURRENT DIRECTORY>
+gcc cron.c -o cron.exe
+cron.exe
+PAUSE SCREEN
